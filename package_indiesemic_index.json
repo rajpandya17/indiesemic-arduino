@@ -8,7 +8,7 @@
       "platforms": [
         {
           "name": "ISC-DEVKIT-nRF52832",
-          "architecture": "myarch",
+          "architecture": "nrf52",
           "version": "1.7.0",
           "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.7.0.tar.gz",

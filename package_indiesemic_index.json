@@ -33,6 +33,11 @@
               "packager": "Indiesemic",
               "name": "nrfjprog",
               "version": "9.4.0"
+            },
+             {
+              "packager": "Indiesemic",
+              "name": "adafruit-nrfutil",
+              "version": "0.5.3.post17"
             }
           ]
         }
@@ -116,6 +121,26 @@
               "archiveFileName": "nrfjprog-9.4.0-win.tar.gz",
               "checksum": "SHA-256:2ad36a9bb13eaec6518db5a2aca535fa04ebf64625252ad76c24840091848b60",
               "size": 525710
+            }
+          ]
+        }
+        {
+          "name": "adafruit-nrfutil",
+          "version": "0.5.3.post17",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/adafruit-nrfutil--0.5.3.post17-win.tar.gz",
+              "archiveFileName": "adafruit-nrfutil--0.5.3.post17-win.tar.gz",
+              "checksum": "SHA-256:980a68660bcc7e0be8e92c2d961bca31287889731bd27b7ece62bc2992887e22",
+              "size": 7617330
+            },
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/adafruit-nrfutil--0.5.3.post17-win.tar.gz",
+              "archiveFileName": "adafruit-nrfutil--0.5.3.post17-win.tar.gz",
+              "checksum": "SHA-256:980a68660bcc7e0be8e92c2d961bca31287889731bd27b7ece62bc2992887e22",
+              "size": 7617330
             }
           ]
         }

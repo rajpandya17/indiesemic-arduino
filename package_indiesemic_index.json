@@ -28,6 +28,11 @@
               "packager": "Indiesemic",
               "name": "CMSIS",
               "version": "5.7.0"
+            },
+            {
+              "packager": "Indiesemic",
+              "name": "nrfjprog",
+              "version": "9.4.0"
             }
           ]
         }
@@ -53,8 +58,8 @@
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/arm-none-eabi-gcc-9-2019q4-win.tar.gz",
-              "archiveFileName": "arm-none-eabi-gcc-9-2019q4-win.tar.gz",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/arm-none-eabi-gcc-9-2019q4-win64.tar.gz",
+              "archiveFileName": "arm-none-eabi-gcc-9-2019q4-win64.tar.gz",
               "checksum": "SHA-256:cadbdd851843126f0dddc7fb3e3e53a1f52f6717cb6d97b7a1f85afef4c97dd6",
               "size": 146795750
             }
@@ -84,6 +89,33 @@
               "archiveFileName": "CMSIS-5.7.0.tar.gz",
               "checksum": "SHA-256:93d6ce537177926987e4c383048835840b8fbfcca0bb1da71947149febd9f3c2",
               "size": 111154791
+            }
+          ]
+        },
+        {
+          "name": "nrfjprog",
+          "version": "9.4.0",
+          "systems": [
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0.tar.gz",
+              "archiveFileName": "nrfjprog-9.4.0.tar.gz",
+              "checksum": "SHA-256:c83987ee7f804e0747dcd8846750b04aed1d6cc8ed0243d325a207997b160318",
+              "size": 213459
+            },
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0-win.tar.gz",
+              "archiveFileName": "nrfjprog-9.4.0-win.tar.gz",
+              "checksum": "SHA-256:2ad36a9bb13eaec6518db5a2aca535fa04ebf64625252ad76c24840091848b60",
+              "size": 525710
+            },
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0-win.tar.gz",
+              "archiveFileName": "nrfjprog-9.4.0-win.tar.gz",
+              "checksum": "SHA-256:2ad36a9bb13eaec6518db5a2aca535fa04ebf64625252ad76c24840091848b60",
+              "size": 525710
             }
           ]
         }

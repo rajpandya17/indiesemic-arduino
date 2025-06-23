@@ -11,12 +11,12 @@
           "architecture": "nrf52",
           "version": "1.0.0",
           "category": "MyVendor Boards",
-          "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.7.0.tar.gz",
-          "archiveFileName": "ISC-Devkit-1.7.0.tar.gz",
-          "checksum": "SHA-256:851060fbe662f4fc9823b5b3bc02a2779b645befb2ef8c553e1245bf5b43c8e1",
-          "size": 22201873,
+          "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
+          "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",
+          "checksum": "SHA-256:d68abd5e283bc090a510212531cc0f51020287e381c9b9e3e5717484b17172df",
+          "size": 22209610,
           "boards": [
-            { "name": "EVK-ISC-nRF52832-A" }
+            { "name": "Indiesemic" }
           ],
           "toolsDependencies": [
             {

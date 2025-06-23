@@ -9,7 +9,7 @@
         {
           "name": "EVK-ISC-nRF52832-A",
           "architecture": "nrf52",
-          "version": "1.0.1",
+          "version": "1.0.0",
           "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
           "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",

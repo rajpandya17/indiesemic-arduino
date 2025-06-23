@@ -33,11 +33,6 @@
               "packager": "Indiesemic",
               "name": "nrfjprog",
               "version": "9.4.0"
-            },
-            {
-              "packager": "Indiesemic",
-              "name": "adafruit-nrfutil",
-              "version": "0.5.3.post17"
             }
           ]
         }
@@ -124,10 +119,10 @@
             }
           ]
         },
-        {
-          "name": "adafruit-nrfutil",
-          "version": "0.5.3.post17",
-          "systems": [
+          {
+              "name": "adafruit-nrfutil",
+              "version": "0.5.3.post17",
+              "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/adafruit-nrfutil--0.5.3.post17-win.tar.gz",

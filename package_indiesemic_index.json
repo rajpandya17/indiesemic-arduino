@@ -7,7 +7,7 @@
       "email": "rajpandya.indiesemic@gmail.com",
       "platforms": [
         {
-          "name": "EVK-ISC-nRF52832-A",
+          "name": "Indiesemic Boards",
           "architecture": "nrf52",
           "version": "1.0.0",
           "category": "MyVendor Boards",

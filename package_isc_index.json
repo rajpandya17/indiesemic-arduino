@@ -12,7 +12,7 @@
         {
           "name": "EVK-ISC-nRF52832-A",
           "architecture": "nrf52",
-          "version": "1.0.0",
+          "version": "1.7.0",
           "category": "Contributed",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
           "archiveFileName": "ISC-devkit-1.0.0.tar.gz",

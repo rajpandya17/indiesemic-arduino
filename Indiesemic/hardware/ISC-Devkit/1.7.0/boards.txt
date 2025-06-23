@@ -6,7 +6,7 @@ menu.debug_output=Debug Port
 # -----------------------------------
 # ISC DEVKIT nRF52832
 # -----------------------------------
-isc52832.name=ISC DEVKIT nRF52832
+isc52832.name=Indiesemic > EVK-ISC-nRF52832-A
 
 # VID/PID for Bootloader, Arduino & CircuitPython
 

@@ -12,7 +12,7 @@
           "version": "1.0.0",
           "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
-          "archiveFileName": "ISC-Devkit-1.7.0.tar.gz",
+          "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",
           "checksum": "SHA-256:765d24f1a4fca70e006b4c4df8c800a8a6633eba7131462f5c4dc1983225db71",
           "size": 22209610,
           "boards": [

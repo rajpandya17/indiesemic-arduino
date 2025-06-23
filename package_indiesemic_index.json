@@ -13,8 +13,8 @@
           "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
           "archiveFileName": "ISC-Devkit-1.7.0.tar.gz",
-          "checksum": "SHA-256:851060fbe662f4fc9823b5b3bc02a2779b645befb2ef8c553e1245bf5b43c8e1",
-          "size": 22201873,
+          "checksum": "SHA-256:765d24f1a4fca70e006b4c4df8c800a8a6633eba7131462f5c4dc1983225db71",
+          "size": 22209610,
           "boards": [
             { "name": "EVK-ISC-nRF52832-A" }
           ],

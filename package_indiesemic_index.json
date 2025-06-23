@@ -7,9 +7,9 @@
       "email": "rajpandya.indiesemic@gmail.com",
       "platforms": [
         {
-          "name": "EVK-ISC-nRF52832",
+          "name": "Indiesemic",
           "architecture": "nrf52",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
           "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",

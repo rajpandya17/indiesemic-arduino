@@ -1,30 +1,24 @@
 {
   "packages": [
     {
-      "name": "ISC-Devkit-nRF52832-A",
-      "maintainer": "INDIESEMIC",
+      "name": "Indiesemic",
+      "maintainer": "Indiesemic",
       "websiteURL": "https://indiesemic.com",
-      "email": "sales@indiesemic.com",
-      "help": {
-        "online": "https://github.com/rajpandya17/indiesemic-arduino"
-      },
+      "email": "rajpandya.indiesemic@gmail.com",
       "platforms": [
         {
           "name": "EVK-ISC-nRF52832-A",
           "architecture": "nrf52",
-          "version": "1.7.0",
-          "category": "Contributed",
+          "version": "1.0.0",
+          "category": "MyVendor Boards",
           "url": "https://rajpandya17.github.io/indiesemic-arduino/ISC-Devkit-1.0.0.tar.gz",
-          "archiveFileName": "ISC-devkit-1.0.0.tar.gz",
-          "checksum": "SHA-256:d68abd5e283bc090a510212531cc0f51020287e381c9b9e3e5717484b17172df",
-          "size": "22209610",
-
+          "archiveFileName": "ISC-Devkit-1.0.0.tar.gz",
+          "checksum": "SHA-256:851060fbe662f4fc9823b5b3bc02a2779b645befb2ef8c553e1245bf5b43c8e1",
+          "size": 22201873,
           "boards": [
-            {
-              "name": "EVK-ISC-nRF52832-A"
-            }
+            { "name": "Indiesemic" }
           ],
-         "toolsDependencies": [
+          "toolsDependencies": [
             {
               "packager": "Indiesemic",
               "name": "arm-none-eabi-gcc",
@@ -39,11 +33,6 @@
               "packager": "Indiesemic",
               "name": "nrfjprog",
               "version": "9.4.0"
-            },
-            {
-              "packager": "Indiesemic",
-              "name": "adafruit-nrfutil",
-              "version": "0.5.3.post17"
             }
           ]
         }
@@ -69,8 +58,8 @@
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/arm-none-eabi-gcc-9-2019q4-win.tar.gz",
-              "archiveFileName": "arm-none-eabi-gcc-9-2019q4-win.tar.gz",
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/arm-none-eabi-gcc-9-2019q4-win64.tar.gz",
+              "archiveFileName": "arm-none-eabi-gcc-9-2019q4-win64.tar.gz",
               "checksum": "SHA-256:cadbdd851843126f0dddc7fb3e3e53a1f52f6717cb6d97b7a1f85afef4c97dd6",
               "size": 146795750
             }
@@ -118,22 +107,22 @@
               "host": "i686-mingw32",
               "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0-win.tar.gz",
               "archiveFileName": "nrfjprog-9.4.0-win.tar.gz",
-              "checksum": "SHA-256:2ad36a9bb13eaec6518db5a2aca535fa04ebf64625252ad76c24840091848b60",
-              "size": 525710
+              "checksum": "SHA-256:<your-win-checksum-here>",
+              "size": 250000
             },
             {
               "host": "x86_64-mingw32",
-              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0-win.tar.gz",
-              "archiveFileName": "nrfjprog-9.4.0-win.tar.gz",
-              "checksum": "SHA-256:2ad36a9bb13eaec6518db5a2aca535fa04ebf64625252ad76c24840091848b60",
-              "size": 525710
+              "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/nrfjprog-9.4.0-win64.tar.gz",
+              "archiveFileName": "nrfjprog-9.4.0-win64.tar.gz",
+              "checksum": "SHA-256:<your-win64-checksum-here>",
+              "size": 260000
             }
           ]
         },
-        {
-          "name": "adafruit-nrfutil",
-          "version": "0.5.3.post17",
-          "systems": [
+          {
+              "name": "adafruit-nrfutil",
+              "version": "0.5.3.post17",
+              "systems": [
             {
               "host": "i686-mingw32",
               "url": "https://github.com/rajpandya17/indiesemic-arduino/releases/download/v1.0/adafruit-nrfutil--0.5.3.post17-win.tar.gz",

@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "Indiesemic",
-      "maintainer": "Indiesemic",
+      "name": "Indiesemic nRF52 ",
+      "maintainer": "Raj Pandya",
       "websiteURL": "https://indiesemic.com",
       "email": "rajpandya.indiesemic@gmail.com",
       "platforms": [
